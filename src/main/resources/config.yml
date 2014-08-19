@@ -1,0 +1,7 @@
+database:
+  ip: localhost/guilds
+  user: user
+  pass: root
+
+localradius: 75
+islands: sand,stone,gravelgrass

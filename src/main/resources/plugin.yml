@@ -1,0 +1,8 @@
+name: Guilds
+version: 1.0
+main: me.ritzdever.Guilds.Guilds
+depend: [Heroes]
+commands:
+   guild:
+      description: Create a guild!
+      usage: /<command>
